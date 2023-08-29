@@ -1,4 +1,4 @@
-# React + Vite
+# CSS Exercises by SuperSimpleDev
 
 This repository contains the solutiions for the exercised provided by SuperSimpleDev Youtube Channel.
 The exercise questions are there in SuperSimpleDev Github Repository.
