@@ -1,0 +1,141 @@
+p{
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+    #nameeight{
+        width: 220px;
+    height: 30px;
+    display: block;
+    margin-left: 10px;
+    padding-left: 5px;
+
+
+}
+#emaileight{
+    display: block;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 220px;
+    padding-left: 5px;
+}
+
+#eightbone{
+    width: 300px;
+    display: inline-block;
+    /* vertical-align: middle; */
+}
+#eightnested{
+    display: inline-block;
+    margin-bottom: -10px;
+    
+}
+
+
+
+
+#eightbtnyes{
+    display: inline;
+    border-radius: 0px;
+    border-color: black;
+    margin-top: -10px;
+}
+#eightbtnno{
+    display: inline;
+    border-radius: 0px;
+    border-color: black;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+#eightthree {
+    margin-top: 20px; /* Add space between the previous content and this div */
+  }
+  
+  #googlelogo {
+    margin-left: 400px;
+    margin-top: 50px;
+  }
+  
+  #bar {
+    border-radius: 30px;
+    width: 750px;
+    height: 40px;
+    border-color: rgb(225, 225, 225);
+    border-width: 1px;
+    box-shadow: 10px 10px 40px rgb(204, 204, 204);
+    margin-left: -550px;
+    margin-top: 8%; /* Adjust the margin-top value to create space below the logo */
+  }
+
+  #boxone{
+    height: 35px;
+    width: 178px;
+    margin-top: 20px;
+    padding-left: 20px;
+
+  }
+  #boxtwo{
+    height: 35px;
+    width: 178px;
+    margin-top: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+
+  }
+
+  #boxthree{
+    height:35px;
+    width: 385px;
+    margin-top: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+
+  }
+
+  #eightdsignup{
+    background-color: #3975EA;
+    color: white;
+    font-weight: bold;
+    display: block;
+    margin-top: 9px;
+    width: 409px;
+  }
+  #eightecontent{
+    font-size: 4ch;
+    font-weight: 500;
+
+  }
+
+  #eightefirstinput{
+    width: 400px;
+    height: 40px;
+    margin-left: 10px;
+    display: block;
+    margin-top: 10px;
+  }
+
+  #eightefirstinput::placeholder{
+    padding-left: 20px;
+  }
+
+  #eightebuttonone{
+    background-color: black;
+    color: white;
+    display: inline;
+    margin-top: 10px;
+    border-radius: none;
+    margin-left: 10px;
+
+  }
+  #eightebuttontwo{
+    background-color: #FFFFFF;
+    color: black;
+    display: inline;
+    margin-top: 10px;
+    border-radius: none;
+    margin-left: 10px;
+
+  }
+

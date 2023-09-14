@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+
+}
+
+#fourhBack{
+    background-color: #EEEDEF;
+    color: black;
+    font-weight: 200;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 0px;
+    
+}
+
+#fourhcontent{
+    color: #431D78;
+    text-decoration: underline;
+    display: inline;
+    margin: 10px;
+    cursor: pointer;
+ 
+}
+
+#fourhnext{
+    background-color: #EEEDEF;
+    color: black;
+    font-weight: 200;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 0px;
+    
+}
+#fourhname{
+    margin-left: 20px;
+}
+
+#fouributton{
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    padding: 16px;
+    border-radius: 0px;
+    margin-left: 10px;
+    box-shadow: 6px 6px 10px rgb(78, 78, 78);
+
+}
+
+#fouributton:hover{
+    padding: 30px;
+    transition: padding 1s;
+}
+
+#fourjbutton{
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 0px;
+    margin-left: 10px;
+    box-shadow: 6px 6px 10px rgb(78, 78, 78);
+
+}
+
+#fourjbutton:active{
+  
+    box-shadow: none;
+}
+
+#fourkbutton{
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 0px;
+    margin-left: 10px;
+    margin-left: 30px;
+
+
+
+}
+
+#fourkbutton:hover{
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: padding 0.25s;
+}

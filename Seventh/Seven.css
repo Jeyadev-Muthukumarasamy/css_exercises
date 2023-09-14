@@ -1,0 +1,119 @@
+#seventhimageone{
+    width: 200px;
+    height: 150px;
+  
+    border-radius: 30px;
+    /* object-fit: cover; */
+    margin-left: 20px;
+}
+#seventhimagetwo{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 20px;
+}
+#seventhimagethree{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+#seventhimagefour {
+    margin-left: 20px;
+    width: 220px;
+    height: 40px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+#seventhimagefour::placeholder {
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+
+#seventhimagefive{
+    border-radius: 30px;
+    width: 350px;
+    height: 40px;
+    border-color: rgb(225, 225, 225);
+    border-width: 1px;
+    box-shadow: 10px 10px 40px rgb(204, 204, 204);
+}
+
+#seventhimagefive::placeholder{
+    padding-left: 20px;
+}
+#seventhimagesixlabel{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+
+#sevenethimagesix {
+    width: 396px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    /* Add other styles as needed */
+}
+#seventhimagesixcontent {
+    font-size: 14px; /* Adjust the font size as needed */
+    white-space: nowrap; /* Prevent line breaks */
+    overflow: hidden; /* Hide overflowing content */
+    text-overflow: ellipsis; /* Show an ellipsis (...) if the content overflows */
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 14px;
+    margin-left: 20px;
+}
+#sevenethimagebutton{
+    background-color: #2D64BC;
+    height: 40px;
+    width: 400px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 35px;
+    margin-left: 20px;
+  
+    
+}
+#seventhimageseven{
+    background-color: grey;
+    height: 200px;
+}
+#seventhimagesevenphoto{
+    width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+
+#sevenethimagesevencontent{
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+  
+}
+
+#seventhimagesevenbutton{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+   
+}
+
