@@ -1,0 +1,201 @@
+#ninea{
+
+    background-color: red;
+    width: 90px;
+    height: 90px;
+    margin: 20px;
+    border-radius: 50px;
+
+}
+#nineb{
+
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    margin: 20px;
+    border-radius: 0px;
+
+}
+
+#ninethc{
+    border: 2px solid black;
+    border: 1px black;
+    border-radius: 2px;
+    /* width: 500px;
+    height: 600px; */
+    
+}
+
+#nineccontent{
+    color: black;
+    font-weight: 500;
+}
+#ninecbuttons{
+    margin-top: 20px;
+}
+#ninecbuttonone{
+    margin-left: 10px;
+    border-radius: 0px;
+    background-color: rgb(216, 216, 216);
+    border-color: black;
+    height: 30px;
+}
+#ninecbuttontwo{
+    margin-left: 10px;
+    border-radius: 0px;
+    background-color: rgb(216, 216, 216);
+    border-color: black;
+    height: 30px;
+    text-align: center;
+    /* width: 40px; */
+
+}
+
+#nined{
+    width: 490px;
+    background-color: #FFFFFF;
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    box-shadow: 3px 3px 10px rgb(209, 209, 209);
+    /* margin-top: 30px; */
+}
+
+#ninedimage{
+    border-radius: 40px;
+    width: 70px;
+    height: 70px;
+    display: inline;
+    justify-content: center;
+    margin-top: 10px;
+}
+#ninedcontent{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    color: #757575;
+    margin-left: 30px;
+}
+
+#ninedbutton{
+    background-color: #4A99E9;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 140px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+
+}
+
+#nineebutton{
+    width: 376px;
+    height: 107px;
+}
+#ninee{
+    margin-top: 30px;
+    background-color: #212121;
+    width: 377px;
+    height:124px;
+}
+
+#nineeone{
+    padding-top: 20px;
+    font-weight: bold;
+
+    color: white;
+    font-size: medium;
+}
+
+#nineetwo{
+    color: grey;
+    margin-top: 5px;
+    font-weight: 100;
+}
+
+#ninef {
+    width: 160px;
+    margin-left: 30px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 10px rgb(207, 207, 207);
+    padding: 10px; 
+}
+
+    #ninefimage{
+        width: 158px;
+        height: 157px;
+        object-fit: cover;
+        
+    }
+    #nineftwo{
+        color: #AEAEAE;
+    }
+    #nineftwo{
+        font-weight: 100;
+    }
+    #ninefbutton{
+        background-color: #3975EA;
+        color: white;
+        font-weight: bold;
+        width: 103px;
+        height: 30px;
+        border-radius: 0px;
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    #nineg {
+        display: flex; 
+        padding: 20px;
+        margin-top: 20px;
+        box-shadow: 3px 3px 10px rgb(193, 193, 193);/* Use Flexbox to arrange child elements in a row */
+      }
+      
+      #ninegone,
+      #ninegtwo
+
+       {
+        display: inline-block;
+        margin-right: 20px; /* Adjust the margin as needed to create space between the divs */
+      }
+      
+
+    
+      #ninehone{
+        padding-left: 70px;
+        padding-top: 40px;
+        /* margin-left: 30px; */
+        width: 567px;
+        height: 176px;
+      }
+      #ninehtwo{
+        display: block;
+      }
+      #ninehinput{
+        padding-left: 00px;
+        width: 608px;
+        height: 48px;
+        margin-left: 30px;
+        border-radius: 120px;
+        border-color: #b8b6b6;
+      }
+      #ninehinput::placeholder{
+        padding-left: 30px;
+      }
+
+      #ninehthree{
+        padding-left: 140px;
+        padding-top: 30px;
+      }
+      #ninehbuttonone{
+        width: 171px;
+        height: 52px;
+        border-radius: 2px;
+        /* border-color: rgb(192, 192, 192); */
+        
+      }
+      #ninehbuttontwo{
+        width: 171px;
+        height: 52px;
+        vertical-align: top;
+        padding-left: 10px;
+      }

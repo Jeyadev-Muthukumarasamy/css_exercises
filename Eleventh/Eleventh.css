@@ -1,0 +1,157 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#grid{
+    width: 100%;
+}
+
+#elevenagrid1{
+    display: grid;
+    grid-template-columns: 200px 75px;
+
+}
+#elevenapartone{
+    background-color: #B6D7E4;
+}
+#elevenaparttwo{
+    background-color: #F4B9C2;
+
+}
+
+#elevenbgrid2{
+    display: grid;
+    grid-template-columns: 50px 75px 50px;
+    margin-top: 20px;
+}
+
+#elevenbpartone{
+    background-color: #B6D7E4;
+}
+
+#elevenbparttwo{
+
+    background-color: #F4B9C2;
+    
+
+
+}
+#elevenbpartthree{
+    background-color: #B6D7E4;
+}
+
+#elevencgrid1{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 20px;
+}
+#elevencpartone{
+    background-color: #F4B9C2;
+
+}
+#elevencparttwo{
+    background-color: #F4B9C2;
+    
+}
+#elevencpartthree{
+    background-color: #F4B9C2;
+    
+}
+#elevencpartfour{
+    background-color: #F4B9C2;
+    
+}
+#elevencpartfive{
+    background-color: #F4B9C2;
+    
+}
+#elevencpartsix{
+    background-color: #F4B9C2;
+    
+}
+
+#elevencpartseven{
+    background-color: #F4B9C2;
+    
+}
+#elevencparteight{
+    background-color: #F4B9C2;
+    
+}
+
+#elevendgrid4{
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    margin-top: 20px;
+    column-gap: 20px;
+    box-shadow: 3px 3px 10px rgb(192, 192, 192);
+    row-gap: 20px;
+    /* padding-bottom: 30px; */
+
+
+}
+
+#elevendimage{
+    width: 186px;
+    height: 179px;
+    padding-left: 20px;
+    
+
+}
+#elevendgrids1{
+    box-shadow: 3px 3px 10px grey;
+    padding-left: 20px;
+    /* padding-bottom: 20px; */
+
+
+}
+#elevendgrids2{
+    box-shadow: 3px 3px 10px grey;
+    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
+
+
+}
+
+#elevendgrids3{
+    box-shadow: 3px 3px 10px grey;
+    /* padding-bottom: 20px; */
+
+
+}
+#elevendprofile {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; /* Makes it a circle */
+    border: 2px solid #000; /* Add a border if needed */
+    margin-left: 30px;
+}
+
+
+#elevendname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* padding-left: 60px; */
+    padding-left: 20px;
+    font-size: large;
+    vertical-align: top;
+}
+
+#elevendfriends{
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(174, 174, 174);
+    display: inline-block;
+    vertical-align: top;
+}
+
+#elevendbutton{
+    background-color: #3975EA;
+    color: white;
+    margin-left: 30px;
+    
+}

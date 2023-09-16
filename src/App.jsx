@@ -6,6 +6,9 @@ import Fifth from './Fifth/fifth';
 import Fourth from '../Fourth/Fourth';
 import Seven from '../Seventh/Seven';
 import Eigth from '../Eigth/Eigth';
+import Nineth from '../Nineth/Nineth';
+import Eleventh from '../Eleventh/Eleventh';
+import Twelveth from '../Twelveth/Twelveth';
 
 function App() {
   return (
@@ -17,7 +20,10 @@ function App() {
       <Route path="/fifth" element={<Fifth />} />,
       <Route path = "/fourth" element = {<Fourth />}/>,
       <Route path = "/seventh" element = {<Seven />}/>,
-      <Route path="/eighth" element={<Eigth />}/>
+      <Route path="/eighth" element={<Eigth />}/>,
+      <Route path = "/nineth" element={<Nineth />}/>,
+      <Route path = "/Eleventh" element ={<Eleventh />}/>,
+      <Route path = "/Twelveth" element = {<Twelveth />}/>
     </Routes>
     </div>
   );
