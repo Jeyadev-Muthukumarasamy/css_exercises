@@ -1,0 +1,112 @@
+#thirteena{
+    display: flex;
+    flex-direction: row;
+}
+
+#item1{
+    background-color: #F4B9C1;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+#item2{
+    background-color: #B6D7E4;
+    width: 200px;
+    height: 40px;
+     display: flex;
+    align-items: center;
+}
+
+#thirteenb{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+
+#bcolumn{
+    background-color: pink;
+    width: 200px;
+    height: 50px;
+}
+
+#bcolumn2,#brow1{
+    display: flex;
+    flex-direction: row;
+    background-color: #B6D7E4;
+    width: 1300px;
+    
+}
+
+#row2{
+    background-color: #B6D7E4;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    /* min-width: 400px; */
+}
+
+#thirteenc{
+    margin-top: 30px;
+    box-shadow: 3px 3px 2px rgb(212, 212, 212);
+    width: 420px;
+    height: 200px;
+}
+
+#cinbox{
+    padding-top: 10px;
+    
+}
+
+#cimage{
+    height: 40px;
+    width: 40px;
+
+    border-radius: 22px;
+    margin-top: 20px;
+    margin-left: -60px;
+    
+}
+#cimages{
+     height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+#clogo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    font-size: 16px;
+    width: 300;
+    
+}
+#ccontent1{
+    font-weight: 700;
+}
+
+
+#ccontent2{
+    font-weight: 500;
+}
+
+#ccontent3{
+    font-weight: 300;
+}
+
+#thirteend{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 500px;
+    box-shadow: 3px 3px 12px rgb(96, 96, 96);
+    padding-bottom: 20px;
+}
+
+#done,#dtwo,#dthree{
+    margin-bottom: -20px;
+}

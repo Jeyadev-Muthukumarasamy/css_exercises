@@ -1,0 +1,92 @@
+#lesson1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#close_button{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 15px;
+    right: 15px;
+    font-family: Arial;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+  
+#lesson2p{
+    display: flex;
+    justify-content: flex-end;
+    width:320px;
+    height: 180px;
+    background-color: grey; 
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 30px;
+    
+    z-index: -10;
+    
+}
+
+#timeline{
+    background-color: black;
+    width: 50px;
+    height: 20px;
+    position: absolute;
+    margin-left: 1500px;
+    margin-top: 180px;
+    
+
+
+
+}
+
+#timelines{
+    color: white;
+    
+    
+
+
+}
+
+#lesson2{
+    border-width: 1px;
+    padding: 3px;
+    border-color: solid black;
+    position: relative;
+    width: 500px;
+    /* height: 390px; */
+}
+
+#tag{
+    background-color: black;
+    width: 50px;
+    height: 20px;
+    color: white;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+#tag2{
+    background-color: #202020;
+    width: 30px;
+    height: 30px;
+    /* position: absolute; */
+    
+}
+#cart
+{
+    width: 100px;
+    margin-top: 50px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 50px;
+
+}

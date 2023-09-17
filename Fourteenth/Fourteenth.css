@@ -1,0 +1,193 @@
+body {
+    height: 3000px;
+    top: 30px;
+  }
+  
+  .bottom-right {
+    background-color: black;
+    color: green;
+    position: fixed;
+    margin-left: 500px;
+    margin-top: 150px;
+    box-shadow: 3px 3px 3px grey;
+    border: 1px solid black;
+    border-width: 2px;
+
+  }
+
+
+  #fourteenb{
+    background-color: green;
+    color: white;
+    position: fixed;
+    left: 90%;
+    right: 0;
+    top: 70px;
+    bottom: 0;
+    width:700px;
+  }
+
+
+  #fourteenbcontainer{
+    width: 500px;
+    height: 200px;
+    margin-left: 700px;
+    margin-top: 300px;
+    box-shadow: 3px 3px 7px rgb(171, 171, 171);
+    border-radius: 2px;
+    position: fixed;
+  }
+
+  #fourteenbtitle{
+    font-weight: bolder;
+    font-size: 32px;
+    margin-left: 30px;
+  }
+
+
+  #fourteenbsubtitle{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: 500;
+  }
+
+  #fourteenbbutton{
+    background-color: rgb(214, 214, 214);
+    color: black;
+    border-width: 2px;
+    border: 1px solid black;
+    width: 60px;
+    padding-left: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 0px;
+    margin-left: 300px;
+
+  }
+
+  #fourteenecontainer{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    position: fixed;
+    box-shadow: 3px 3px 1px rgba(0,0,0,0.2);
+    width: 100%;
+    
+  }
+
+  #fourteenepicture{
+    width: 40px;
+    height: 40px;
+    border-radius: 60px;
+    margin-left: 80px;
+    
+  }
+
+
+  #fourteene1{
+    background-color: #3872DC;
+    color: white;
+    margin-left: 1200px;
+
+  }
+
+  #fourteene2{
+    margin-left: 10px;
+    font-weight: 700;
+  }
+
+  #fourteenecontent{
+    font-weight: bold;
+    /* padding-top: 10px; */
+    margin-left: 20px;
+  }
+
+  #fourteenfcontainer{
+    margin-top: 400px;
+    margin-left: 20px;
+    display: flex;
+    /* border: 2px solid #adadad; 
+    border-radius: 5px; 
+    padding: 0.2px; */
+    position: fixed;
+    
+
+  }
+
+  #fourteenf1{
+    display: flex;
+    flex-direction: column;
+    background-color: #202225;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 85px;
+  }
+
+  #fourteenfimg1{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    margin-top: 20px;
+  }
+
+  #fourteenf2{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: #313131;
+    
+  }
+  #fourteenfinfo{
+    color: #DDDDDD;
+    font-weight: bold;  
+    margin-left: 20px;
+    margin-top: -31px;
+    font-size: 18px;
+    margin-bottom: 30px;  
+    
+    
+  }
+
+  #fourteenfplus{
+    display: flex;
+    justify-content: end;
+    color: #8E9296;
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 30px;
+    
+
+  }
+
+  #fourteenf3{
+    width: 200px;
+    background-color: #FFFFFF;
+  }
+
+  #fourteenfinfo1{
+    color: #929292;
+   
+    padding-left: 20px;
+    font-size: 18px;
+    margin-top: -15px;
+    
+  }
+
+  #fourteenfinfo2{
+
+    color: #929292;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+
+  #fourteenfinfo3{
+    color: #929292;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-top: 10px;
+
+  }
+

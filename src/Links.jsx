@@ -38,6 +38,16 @@ function Links() {
       <Link to="/Twelveth" style={linkStyle}>
         Go to Twelveth
       </Link>
+      <Link to="/Thirteenth" style={linkStyle}>
+        Go to Thirteenth
+      </Link>
+      <Link to="/Fourteenth" style={linkStyle}>
+        Go to Fourteenth
+      </Link>
+      <Link to = "/Fifteenth" style = {linkStyle}>
+        Go to Fifteen
+      </Link>
+
     </div>
   );
 }
